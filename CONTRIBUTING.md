@@ -1,7 +1,7 @@
 # Contributing
 
 Your contributions are always welcome!
-
+Text hinzuz gefüght. Sende die Email und rufe michnicht mehr an damit ich deine arbeit mach. Spass! aber wirklich. Mach urlaub. tschiauo
 ## Guidelines
 
 * Add one link per Pull Request.
